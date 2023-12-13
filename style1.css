@@ -19,6 +19,9 @@ h1 {
 p {
   margin-bottom: 20px;
 }
+a {
+  text-decoration: none;
+}
 
 #btn {
   display: inline-block;
