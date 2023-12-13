@@ -59,3 +59,24 @@ p {
 #msg-area {
   margin-top: 70px;
 }
+
+/* CSS for mobile devices */
+@media (max-width: 480px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+/* CSS for tablets */
+@media (min-width: 481px) and (max-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/* CSS for desktop computers */
+@media (min-width: 769px) {
+  body {
+    font-size: 20px;
+  }
+}
