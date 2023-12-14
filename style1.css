@@ -47,8 +47,8 @@ a {
   color: #666;
 }
 #social-icons {
-  height: 2vh;
-  width: 4vw;
+  height: 4vh;
+  width: 3vw;
   margin: 10px;
 }
 .footer-container {
@@ -76,7 +76,7 @@ a {
   }
   #social-icons {
     height: 3vh;
-    width: 7vw;
+    width: 5vw;
     margin: 10px;
   }
 }
@@ -94,7 +94,7 @@ a {
   }
   #social-icons {
     height: 3vh;
-    width: 7vw;
+    width: 4vw;
     margin: 10px;
   }
 }
