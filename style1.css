@@ -6,9 +6,9 @@ body {
   background-color: white;
 }
 #icons-size {
-  height: 10vh;
-  width: 10vw;
-  margin-left: 20px;
+  height: 8vh;
+  width: 16vw;
+  margin-left: 10px;
 }
 
 h1 {
@@ -47,8 +47,8 @@ a {
   color: #666;
 }
 #social-icons {
-  height: 5vh;
-  width: 5vw;
+  height: 2vh;
+  width: 4vw;
   margin: 10px;
 }
 .footer-container {
@@ -69,12 +69,33 @@ a {
   body {
     font-size: 16px;
   }
+  #icons-size {
+    height: 8vh;
+    width: 24vw;
+    margin-left: 10px;
+  }
+  #social-icons {
+    height: 3vh;
+    width: 7vw;
+    margin: 10px;
+  }
 }
 
 /* CSS for tablets */
 @media (min-width: 481px) and (max-width: 768px) {
   body {
     font-size: 18px;
+  }
+
+  #icons-size {
+    height: 8vh;
+    width: 24vw;
+    margin-left: 10px;
+  }
+  #social-icons {
+    height: 3vh;
+    width: 7vw;
+    margin: 10px;
   }
 }
 
