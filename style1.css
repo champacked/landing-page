@@ -102,6 +102,6 @@ a {
 /* CSS for desktop computers */
 @media (min-width: 769px) {
   body {
-    font-size: 20px;
+    font-size: 21px;
   }
 }
